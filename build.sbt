@@ -39,6 +39,6 @@ libraryDependencies ++= Seq(
   "com.google.code.gson" % "gson" % "2.7",
   "org.twitter4j" % "twitter4j-core" % "3.0.3",
   "org.twitter4j" % "twitter4j-stream" % "3.0.3",
-  "org.elasticsearch" % "elasticsearch-spark_2.10" % "2.3.2",
+  "org.elasticsearch" % "elasticsearch-spark_2.10" % "2.3.2"
   "org.json" % "json" % "20090211"
 )
